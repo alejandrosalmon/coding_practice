@@ -1,4 +1,5 @@
-./idea
-__*
+.idea/
 
-.ipyb*
+__pycache__*
+.ipynb*
+*.ipynb
